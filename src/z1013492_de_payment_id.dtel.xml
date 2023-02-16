@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>Z1013492_DE_PAYMENT_ID</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>Z1013492_DM_PAYMENT_ID</DOMNAME>
+    <HEADLEN>55</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>20</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Payment Id</DDTEXT>
+    <REPTEXT>Payment Id</REPTEXT>
+    <SCRTEXT_S>Pay Id</SCRTEXT_S>
+    <SCRTEXT_M>Pay Id</SCRTEXT_M>
+    <SCRTEXT_L>Payment Id</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <SHLPNAME>Z1013492_SEARCH1</SHLPNAME>
+    <SHLPFIELD>PAYMENT_ID</SHLPFIELD>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>Z1013492_EMP_BLOOD_GROUP</ROLLNAME>
+    <DDLANGUAGE>E</DDLANGUAGE>
+    <DOMNAME>Z1013492_EMP_BLOOD_GROUP</DOMNAME>
+    <HEADLEN>12</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>11</SCRLEN2>
+    <SCRLEN3>40</SCRLEN3>
+    <DDTEXT>Blood Group</DDTEXT>
+    <REPTEXT>Blood Group</REPTEXT>
+    <SCRTEXT_S>Blood Gr</SCRTEXT_S>
+    <SCRTEXT_M>Blood Group</SCRTEXT_M>
+    <SCRTEXT_L>Blood Group</SCRTEXT_L>
+    <DTELMASTER>E</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+  </asx:values>
+ </asx:abap>
+</abapGit>
