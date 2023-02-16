@@ -1,0 +1,3 @@
+FUNCTION-POOL ZFG_STRING_OPERATIONS.        "MESSAGE-ID ..
+
+* INCLUDE LZFG_STRING_OPERATIONSD...         " Local class definition
